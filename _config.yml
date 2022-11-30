@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://ch3choi.github.io/SKCHOI"
+baseurl: "/SKCHOI"
+url: "https://ch3choi.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
